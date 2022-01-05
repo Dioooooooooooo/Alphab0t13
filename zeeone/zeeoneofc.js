@@ -22,7 +22,7 @@ ${numberik}➛MCC : ${mcc}
 └❏ MNC : ${mnc}
 
 ┌─❑「 *BOT INFO* 」
-${numberik}➛ Owner : ${ownername}
+${numberik}➛ Owner : ${Deez Nutz}
 ${numberik}➛Mode : ${status}
 ${numberik}➛Prefix : ${prefix}
 ${numberik}➛Total Hit : ${hit_today.length}
